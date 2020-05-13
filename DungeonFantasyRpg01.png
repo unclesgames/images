@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0038)http://www.sjgames.com/dungeonfantasy/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Dungeon Fantasy Roleplaying Game</title>
+<link rel="stylesheet" href="./DungeonFantasyRpg01_files/boxframe.css" type="text/css">
+<link rel="stylesheet" href="./DungeonFantasyRpg01_files/lightbox.css" type="text/css" media="screen">
+<script async="" src="./DungeonFantasyRpg01_files/analytics.js.download"></script><script type="text/javascript" src="./DungeonFantasyRpg01_files/prototype.js.download"></script>
+<script type="text/javascript" src="./DungeonFantasyRpg01_files/scriptaculous.js.download"></script><script type="text/javascript" src="./DungeonFantasyRpg01_files/effects.js.download"></script><script type="text/javascript" src="./DungeonFantasyRpg01_files/builder.js.download"></script>
+<script type="text/javascript" src="./DungeonFantasyRpg01_files/lightbox.js.download"></script>
+<link rel="stylesheet" href="./DungeonFantasyRpg01_files/general.css" type="text/css">
+<link rel="stylesheet" href="./DungeonFantasyRpg01_files/navbar.css" type="text/css">
+<meta name="format-detection" content="telephone=no">
+<script type="text/javascript"><!--
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-28492487-1', 'auto', 'overviewTracker', {'allowLinker': true});
+ga('overviewTracker.require', 'linker');
+ga('overviewTracker.require', 'displayfeatures');
+ga('overviewTracker.linker:autoLink', ['sjgames.com','warehouse23.com','worldofmunchkin.com','forums.sjgames.com','basement.warehouse23.com','munchkin.game','munchkinccg.game','thefantasytrip.game','pocketbox.games'], true);
+ga('overviewTracker.send', 'pageview');
+
+ga(function() {
+  var l = window.location;
+  if( l.hash.indexOf( "ga" ) != -1 )
+  {
+    var anchor = l.hash.match(/#(?!ga)[^&]+/);
+    anchor  =   anchor? anchor[0]: '';
+    gaCheck = "_ga";
+    if (anchor.includes(gaCheck))
+    {     
+      if (history.replaceState) history.replaceState(null, '', l.pathname + l.search);
+    } else {
+        l.hash = anchor;        
+    }
+  }
+});
+// -->
+</script>
+</head>
+<body data-gr-c-s-loaded="true">
+<div id="navbar">
+<a href="http://www.sjgames.com/" title="SJGames.com"><img src="./DungeonFantasyRpg01_files/eiphome.gif" alt="Home"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="https://munchkin.game/" title="Munchkin"><img src="./DungeonFantasyRpg01_files/munchkin.gif" alt="Munchkin"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://www.sjgames.com/car-wars/" title="Car Wars"><img src="./DungeonFantasyRpg01_files/carwars-menu.png" alt="Car Wars"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="https://www.kickstarter.com/projects/warehouse23/dungeon-fantasy-companion-2-powered-by-gurps" title="Dungeon Fantasy Companion 2, Powered by GURPS"><img src="./DungeonFantasyRpg01_files/kickstarter_logo2.png" alt="Kickstarter"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://www.sjgames.com/ourgames/" title="Our Games"><img src="./DungeonFantasyRpg01_files/ourgames.gif" alt="Our Games"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://www.sjgames.com/newproducts/" title="New Releases"><img src="./DungeonFantasyRpg01_files/newrel.gif" alt="New Releases"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://forums.sjgames.com/" title="Forums"><img src="./DungeonFantasyRpg01_files/forums.gif" alt="Forums"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://www.warehouse23.com/" title="Store"><img src="./DungeonFantasyRpg01_files/store.gif" alt="Store"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://www.sjgames.com/search/" title="Search"><img src="./DungeonFantasyRpg01_files/search.gif" alt="Search"></a><img src="./DungeonFantasyRpg01_files/dot.gif" alt="*"><a href="http://www.sjgames.com/general/followus.html" title="Contact Us"><img src="./DungeonFantasyRpg01_files/follow.gif" alt="Contact Us"></a>
+</div>
+<div id="wrapper">
+<div id="header">
+<img src="./DungeonFantasyRpg01_files/logo2.png" class="topm" alt="Dungeon Fantasy" title="Dungeon Fantasy">
+</div> <!-- /header -->
+
+<div id="contentwrapper">
+
+<div id="content" class="background">
+<div id="leftcol">
+<a href="./DungeonFantasyRpg01_files/cover_lg.jpg" rel="lightbox[product]" title="Dungeon Fantasy Roleplaying Game"><img src="./DungeonFantasyRpg01_files/cover_sm.png" style="border-style: none;" alt="Dungeon Fantasy Roleplaying Game"></a>
+<h2>Photos</h2>
+<p align="center"><a href="http://www.sjgames.com/dungeonfantasy/img/books_lg.jpg" rel="lightbox[product]" title="Set of Books"><img src="./DungeonFantasyRpg01_files/books.png" style="border-style: none;" alt="Set of Books"></a></p>
+
+<h2>Contents</h2>
+<div class="leftlist">
+<ul>
+<li><a href="http://www.sjgames.com/dungeonfantasy/img/preorderdf.pdf" target="_blank">Preorder Form</a> (PDF)</li>
+<li><a href="http://www.themook.net/gamegeekery/?ddownload=4218" target="_blank">Character Sheet Form</a> (PDF)</li>
+<li><a href="http://www.themook.net/gamegeekery/?ddownload=4241" target="_blank">Monster, Traps, Diseases/Poisons Sheet Form</a> (PDF)</li>
+<li><a href="http://www.themook.net/gamegeekery/?ddownload=4240" target="_blank">Spell Sheet Form</a> (PDF)</li>
+<li><a href="http://www.sjgames.com/dungeonfantasy/img/dfrpg_promo_4_glint.pdf" target="_blank">Pregenerated Character - Glint</a> (PDF)</li>
+<li><a href="http://www.sjgames.com/dungeonfantasy/img/dfrpg_promo_4_emilyelms.pdf" target="_blank">Pregenerated Character - Emily Elms</a> (PDF)</li>
+</ul>
+</div>
+</div> <!-- /leftcol -->
+
+<div id="rightcol">
+<h1 class="title firstline">Dungeon Fantasy Roleplaying Game</h1>
+
+
+
+<p class="credits">Written by <a href="http://www.warehouse23.com/products?search%5Bsearch_contributor%5D=Sean+Punch&amp;search%5Bsearch_order%5D=alphaAZ&amp;from_advanced_search=1&amp;commit=Search"><b>Sean Punch</b></a><br>
+Illustrated by <b>Alex Fernandez</b>, <b>Felipe Gaona Reydet</b>, <b>Denis Loubet</b>, <b>Brandon Moore</b>, and <b>Benjamin Mund</b></p>
+<p>5 books, 2 large double-sided maps, cardboard figures, and 6-sided dice.<br>
+Suggested Retail Price $79.95
+<img src="./DungeonFantasyRpg01_files/dot(1).gif" width="9" height="9" alt="*" style="border: none; padding: 0;">
+Stock number 01-1005<br>
+UPC 091037863317<br>
+<b><i>Limited Quantity Available</i></b> – <a href="http://www.warehouse23.com/products/dungeon-fantasy-roleplaying-game" onclick="ga(&#39;overviewTracker.send&#39;, &#39;event&#39;, &#39;links&#39;, &#39;clicked&#39;, &#39;stocktag_textbi&#39;);"><b><i>click here to order!</i></b></a></p>
+
+<p>430 pages. PDF.
+<img src="./DungeonFantasyRpg01_files/dot(1).gif" width="9" height="9" alt="*" style="border: none; padding: 0;">
+Price $40.00
+<img src="./DungeonFantasyRpg01_files/dot(1).gif" width="9" height="9" alt="*" style="border: none; padding: 0;">
+Stock number 31-1005<br>
+<b><i>Always Available</i></b> – <a href="http://www.warehouse23.com/products/SJG31-1005"><b><i>Click here to buy!</i></b></a></p>
+
+<div style="text-align: center;">
+  <iframe src="./DungeonFantasyRpg01_files/video.html" width="560" height="315" style="border:none;overflow:hidden;padding:20px;" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+</div>
+
+<h2>Storm Dungeons, Slay Monsters, Seize Treasure</h2>
+
+<p>A fun hack 'n' slash campaign challenges unique heroes with clever dungeons. To get the most out of your fantasy adventures, you need a game that lets you customize and perfect characters, monsters, treasures, and traps.</p>
+
+<p>That's where the ready-to-play <i><b>Dungeon Fantasy Roleplaying Game</b></i> comes in. It harnesses the customizing power of the award-winning <i><b>Generic Universal RolePlaying System</b></i> (<i><b>GURPS</b></i>), and streamlines it so you have exactly what you need to take fully-realized characters on fantastic adventures.</p>
+
+<p>Choose from 11 classic professions and nine races. Tailor your hero using quick-start templates and the time-tested <i><b>GURPS</b></i> point-build system. Gear up with a massive list of customizable armor and weapons. Pick from over 400 spells. Then battle foes chosen from more than 80 monsters.</p>
+
+<p>All this power guarantees epic games in no time . . . starting with the new adventure that comes in the box!</p>
+
+<h3>Daily Illuminator Articles</h3>
+<p>From time to time, we support the <b><i>Dungeon Fantasy Roleplaying Game</i></b> with articles in our blog, the <a href="http://www.sjgames.com/ill/" target="_blank"><i>Daily Illuminator</i></a>. Here's the roundup so far:</p>
+<p><b><i>Dungeon Fantasy</i></b> Tips: A whole <i>series</i> of pieces offering detailed thoughts on actually playing the game. Some are aimed at players and some at GMs – but much of this is general advice for everyone!</p>
+<ul style="line-height: 30px">
+  <li><a href="http://www.sjgames.com/ill/archive/October_26_2017/Dungeon_Fantasy_Tips_Opening_The_Chest" target="_blank">Opening The Chest</a> (October 26, 2017). General advice on how to get started.</li>
+  <li><a href="http://www.sjgames.com/ill/archive/November_06_2017/Dungeon_Fantasy_Tips_Creating_Your_Own_Character" target="_blank">Creating Your Own Character</a> (November 6, 2017). Advice to players on creating fun-to-play heroes.</li>
+  <li><a href="http://www.sjgames.com/ill/archive/November_15_2017/Dungeon_Fantasy_Tips_Creating_Your_Own_Dungeon" target="_blank">Creating Your Own Dungeon</a> (November 15, 2017). Advice to GMs on writing entertaining adventures.</li>
+  <li><a href="http://www.sjgames.com/ill/archive/November_29_2017/Dungeon_Fantasy_Tips_Superior_Spellcasters" target="_blank">Superior Spellcasters</a> (November 29, 2017). General advice on building and playing magic-users effectively.</li>
+  <li><a href="http://www.sjgames.com/ill/archive/December_20_2017/Dungeon_Fantasy_Tips_My_Little_Monster" target="_blank">My Little Monster</a> (December 20, 2017). Advice to GMs on designing cool new monsters.</li>
+  <li><a href="http://www.sjgames.com/ill/archive/December_29_2017/Dungeon_Fantasy_Tips_The_Art_Of_War" target="_blank">The Art Of War</a> (December 29, 2017). General advice on combat, especially making it run smoothly.</li>
+  <li><a href="http://www.sjgames.com/ill/archive/January_02_2018/Dungeon_Fantasy_Tips_Town" target="_blank">Town?</a> (January 2, 2018). Advice to GMs on cooking up interesting towns to visit between adventures.</li>
+</ul>
+<p><a href="http://www.sjgames.com/ill/archive/December_07_2017/Dungeon_Fantasy_Roleplaying_Game_Designers_Notes" target="_blank"><b><i>Dungeon Fantasy Roleplaying Game</i></b> Designer's Notes</a> (December 7, 2017). Pointers to all the articles out there on the process of putting together the <b><i>Dungeon Fantasy Roleplaying Game</i></b>.</p>
+<p><a href="http://www.sjgames.com/ill/archive/December_31_2017/Caravan_To_GURPS" target="_blank">Caravan To <b><i>GURPS</i></b></a> (December 31, 2017). A suggestion for how to make the jump from the <b><i>Dungeon Fantasy Roleplaying Game</i></b> to <a href="http://gurps.sjgames.com/" target="_blank"><b><i>GURPS</i></b></a>, its parent game.</p>
+    
+<h3>Medium Articles</h3>
+<a href="https://medium.com/@SJGames/dungeon-fantasy-designers-notes-1-what-who-when-where-why-9a30e03493c1" target="_blank"><p>Dungeon Fantasy Designer's Notes 1: What, Who, When, Where, Why?</p></a>
+<a href="https://medium.com/@SJGames/dungeon-fantasy-designers-notes-2-eleven-flavors-of-munchkin-a-golf-bag-full-of-swords-297a1bd8371b" target="_blank"><p>Dungeon Fantasy Designer's Notes 2: Eleven Flavors of Munchkin, a Golf Bag Full of Swords</p></a>
+<a href="https://medium.com/@SJGames/dungeon-fantasy-designers-notes-3-fighting-and-other-activities-69dc2fdf1ae3" target="_blank"><p>Dungeon Fantasy Designer's Notes 3: Fighting (and Other Activities)</p></a>
+<a href="https://medium.com/@SJGames/dungeon-fantasy-designers-notes-4-it-s-magic-34d52835495a" target="_blank"><p>Dungeon Fantasy Designer's Notes 4: "It's Magic!"</p></a>
+<a href="https://medium.com/@SJGames/dungeon-fantasy-designers-notes-5-jaws-that-bite-claws-that-catch-8960d277a302" target="_blank"><p>Dungeon Fantasy Designer's Notes 5: Jaws That Bite, Claws That Catch</p></a>
+
+  <div style="text-align: center;">
+    <img src="./DungeonFantasyRpg01_files/GameComponents.png" alt="Books and Boards" title="Books and Boards" style="padding-top: 30px; margin-bottom: 30px; max-width: 815px; width: 100%;">
+  </div>
+
+  <center>
+    <a href="http://www.sjgames.com/dungeonfantasy/"><img src="./DungeonFantasyRpg01_files/DungeonFantasy_BoxSet_936x225.jpg" style="padding-top: 25px; width: 100%; max-width: 936px; padding-bottom: 25px;"></a>
+    
+    <a href="http://www.sjgames.com/dungeonfantasy/gmscreen/"><img src="./DungeonFantasyRpg01_files/DungeonFantasy_GMScreen_936x225.jpg" style="padding-top: 25px; width: 100%; max-width: 936px; padding-bottom: 25px;"></a>
+    
+    <a href="http://www.sjgames.com/dungeonfantasy/companion/"><img src="./DungeonFantasyRpg01_files/DungeonFantasy_Companion_936x225.jpg" style="padding-top: 25px; width: 100%; max-width: 936px; padding-bottom: 25px;"></a>
+</center>
+
+<table align="center" cellpadding="4" class="container">
+  <tbody><tr>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/adventurers/" title="Adventurers"><img src="./DungeonFantasyRpg01_files/cover_sm.jpg" alt="Adventurers"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/adventurers/" title="Adventurers"><b><i>Adventurers</i></b></a></td>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/againsttheratmen/" title="Against the Rat Men"><img src="./DungeonFantasyRpg01_files/cover_sm(1).jpg" alt="Against the Rat Men"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/againsttheratmen/" title="Against the Rat Men"><b><i>Against the Rat Men</i></b></a></td>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/companion2/" title="Dungeon Fantasy Companion 2"><img src="./DungeonFantasyRpg01_files/cover_sm(2).jpg" alt="Dungeon Fantasy Companion 2"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/companion2/" title="Dungeon Fantasy Companion 2"><b><i>Dungeon Fantasy Companion 2</i></b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/magicitems/" title="Magic Items"><img src="./DungeonFantasyRpg01_files/cover_sm(3).jpg" alt="Magic Items"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/magicitems/" title="Magic Items"><b><i>Magic Items</i></b></a></td>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/magicitems2/" title="Magic Items 2"><img src="./DungeonFantasyRpg01_files/cover_sm(4).jpg" alt="Magic Items 2"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/magicitems2/" title="Magic Items 2"><b><i>Magic Items 2</i></b></a></td>    
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/monsters2/" title=" Monsters 2"><img src="./DungeonFantasyRpg01_files/cover_sm(5).jpg" alt=" Monsters 2"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/monsters2/" title=" Monsters 2"><b><i> Monsters 2</i></b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/spells/" title="Spells"><img src="./DungeonFantasyRpg01_files/cover_sm(6).jpg" alt="Spells"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/spells/" title="Spells"><b><i>Spells</i></b></a></td>
+    <td align="center"><a href="http://www.sjgames.com/dungeonfantasy/traps/" title="Traps"><img src="./DungeonFantasyRpg01_files/cover_sm(7).jpg" alt="Traps"></a><br>
+  <a href="http://www.sjgames.com/dungeonfantasy/traps/" title="Traps"><b><i>Traps</i></b></a></td>
+  </tr>
+</tbody></table> 
+
+<table align="center" cellpadding="4">
+  <tbody><tr>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2698" title="Pyramid #3/98: Welcome to Dungeon Fantasy (December 2016)"><img src="./DungeonFantasyRpg01_files/pyr98_thumb.jpg" alt="Pyramid #3/98: Welcome to Dungeon Fantasy (December 2016)"><br>Issue #3/98</a></td>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2704" title="Pyramid #3/104: Dungeon Fantasy Roleplaying Game (June 2017)"><img src="./DungeonFantasyRpg01_files/pyr104_thumb.jpg" alt="Pyramid #3/104: Dungeon Fantasy Roleplaying Game (June 2017)"><br>Issue #3/104</a></td>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2706" title="Pyramid #3/106: Dungeon Fantasy Roleplaying Game II (August 2017)"><img src="./DungeonFantasyRpg01_files/pyr106_thumb.jpg" alt="Pyramid #3/106: Dungeon Fantasy Roleplaying Game II (August 2017)"><br>Issue #3/106</a></td>      
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2708" title="Pyramid #3/108: Dungeon Fantasy Roleplaying Game III (October 2017)"><img src="./DungeonFantasyRpg01_files/pyr108_thumb.jpg" alt="Pyramid #3/108: Dungeon Fantasy Roleplaying Game III (October 2017)"><br>Issue #3/108</a></td>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2709" title="Pyramid #3/109: Thaumatology V (November 2017)"><img src="./DungeonFantasyRpg01_files/pyr109_thumb.jpg" alt="Pyramid #3/109: Thaumatology V (November 2017)"><br>Issue #3/109</a></td>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2711" title="Pyramid #3/111: Combat II (January 2018)"><img src="./DungeonFantasyRpg01_files/pyr111_thumb.jpg" alt="Pyramid #3/111: Combat II (January 2018)"><br>Issue #3/111</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2713" title="Pyramid #3/113: Dungeon Fantasies (March 2018)"><img src="./DungeonFantasyRpg01_files/pyr113_thumb.jpg" alt="Pyramid #3/113: Dungeon Fantasies (March 2018)"><br>Issue #3/113</a></td>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2718" title="Pyramid #3/118: Dungeon Trips (August 2018)"><img src="./DungeonFantasyRpg01_files/pyr118_thumb.jpg" alt="Pyramid #3/118: Dungeon Trips (August 2018)"><br>Issue #3/118</a></td>
+    <td align="center"><a href="http://www.warehouse23.com/products/SJG37-2722" title="Pyramid #3/122: All Good Things (December 2018)"><img src="./DungeonFantasyRpg01_files/pyr122_thumb.jpg" alt="Pyramid #3/122: All Good Things (December 2018)"><br>Issue #3/122</a></td>
+  </tr>
+</tbody></table>
+
+
+
+
+    
+
+</div> <!-- /rightcol -->
+<div style="width: 100%; height: 0; clear: both;"></div>
+</div> <!-- /content -->
+
+
+<div style="width: 100%; height: 0; clear: both;"></div>
+</div> <!-- /contentwrapper -->
+<div id="footer">
+<a href="http://www.sjgames.com/" title="Steve Jackson Games"><img src="./DungeonFantasyRpg01_files/sjg-logo.png" border="0" alt="Steve Jackson Games"></a>
+</div> <!-- /footer -->
+<div style="margin: 1em auto; text-align: center;"><a href="http://www.sjgames.com/general/privacy.html">Privacy Policy</a> | <a href="http://www.sjgames.com/general/feedback.html">Contact Us</a></div>
+</div> <!-- /wrapper -->
+
+
+
+    
+
+
+<div id="overlay" style="opacity: 0.8; width: 100%; height: 100%;"></div><div id="lightbox" style="top: 43.5px; left: 0px;"><div id="outerImageContainer" style="width: 3138px; height: 3275px; font-size: 3.16441e+09px;"><div id="imageContainer"><img id="lightboxImage" src="./DungeonFantasyRpg01_files/cover_lg.jpg" width="622" height="3255" style=""><div id="hoverNav" style=""><a id="prevLink" href="http://www.sjgames.com/dungeonfantasy/#" style="height: 3255px; display: none;"></a><a id="nextLink" href="http://www.sjgames.com/dungeonfantasy/#" style="height: 3255px;"></a></div><div id="loading" style="display: none;"><a id="loadingLink" href="http://www.sjgames.com/dungeonfantasy/#"><img src="./DungeonFantasyRpg01_files/loading.gif"></a></div></div></div><div id="imageDataContainer" style="width: 3138px;"><div id="imageData" style=""><div id="imageDetails"><span id="caption">Dungeon Fantasy Roleplaying Game</span><span id="numberDisplay" style="">Image 1 of  2</span></div><div id="bottomNav"><a id="bottomNavClose" href="http://www.sjgames.com/dungeonfantasy/#"><img src="./DungeonFantasyRpg01_files/xsheild.png"></a></div></div></div></div></body></html>
